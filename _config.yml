@@ -5,9 +5,14 @@
 # Site
 title: YoobinPage
 subtitle: ''
-description: 'BJUT||CS||Hobbit Lover😎'
+description: '
+BJUT CS Bachelor 2019 - 2023
+
+KAIST AI Master 2023 - now
+
+Hobbit Lover😎'
 keywords:
-author: John Doe
+author: Chunji Cui
 language: en
 timezone: ''
 
@@ -28,6 +33,8 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
+about_dir: about
+project_dir: project
 skip_render:
 
 # Writing
@@ -97,7 +104,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yilia
+#theme: yilia
+theme: cactus
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -124,3 +132,9 @@ jsonContent:
     excerpt: false
     categories: false
     tags: true
+
+# Automatically Excerpt. Not recommend.
+# Please use <!-- more --> in the post to control excerpt accurately.
+auto_excerpt:
+  enable: false
+  length: 150
