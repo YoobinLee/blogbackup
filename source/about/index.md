@@ -8,4 +8,4 @@ Hi, I'm a master student from Kim Jaechul Graduate School of AI, KAIST, under su
 This is my [one-page](/files/CV_ChunjiCui.pdf).
 
 ## about my interest
-I'm interested in ornithology, linguistics, and cats🐱. I'm studying German, Latin and Elvish(Quenya) so far. Also I'm a classical music lover, and my favorite composer is [Johann Strauss II](https://en.wikipedia.org/wiki/Johann_Strauss_II)(.
+I'm interested in ornithology, linguistics, and cats🐱. I'm studying German, Latin and Elvish(Quenya) so far. Also I'm a classical music lover, and my favorite composer is [Johann Strauss II](https://en.wikipedia.org/wiki/Johann_Strauss_II).
