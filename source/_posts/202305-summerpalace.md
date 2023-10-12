@@ -10,11 +10,15 @@ tags:
 ### 正文
 
 <p>博主们建议东宫门进、顺时针走的原因，主要是东宫门-北宫门这一段由长廊和船坞构成，古建筑居多（大多数人吐槽的破屋子），不能体现颐和园的特点。等到最后走到昆明湖，人已经很累了，没有力气再去欣赏。</p>
-<p>北宫门进、逆时针走，你将会看到如下风景：</p>
-<p>1.刚进北宫门，登上台阶后右转，会进到一片小森林，绿意盎然，空气非常清新。如果愿意花10块钱买一张苏州街的票，可以感受到皇家气质的“水乡”。</p>
 <div align="center">    
 	<img src="/images/summerpalace/summerpalace1.jpeg" width="60%" height="60%">
 	<center style="font-size:14px;color:#C0C0C0">我本次的颐和园路线</center>
+</div>
+<p>北宫门进、逆时针走，你将会看到如下风景：</p>
+<p>1.刚进北宫门，登上台阶后右转，会进到一片小森林，绿意盎然，空气非常清新。如果愿意花10块钱买一张苏州街的票，可以感受到皇家气质的“水乡”。</p>
+<div align="center">    
+	<img src="/images/summerpalace/summerpalace2.jpeg" width="60%" height="60%">
+	<center style="font-size:14px;color:#C0C0C0">小猫出没</center>
 </div>
 
 <p>2.穿越树林的路上，你会看到一潭小小的荷花池，池边长着一丛芦苇，远处四声杜鹃啼鸣，偶尔有几只绿头鸭、小䴙䴘游过，运气好还会有大雁从头顶飞过。</p>
