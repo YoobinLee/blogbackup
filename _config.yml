@@ -33,9 +33,9 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-about_dir: about
-project_dir: project
-link_dir: link
+#about_dir: about
+#project_dir: project
+#link_dir: link
 skip_render:
 
 # Writing
