@@ -18,7 +18,11 @@ tags:
 <p>1.刚进北宫门，登上台阶后右转，会进到一片小森林，绿意盎然，空气非常清新。如果愿意花10块钱买一张苏州街的票，可以感受到皇家气质的“水乡”。</p>
 <div align="center">    
 	<img src="/images/summerpalace/summerpalace2.jpeg" width="60%" height="60%">
-	<center style="font-size:14px;color:#C0C0C0">小猫出没</center>
+	<center style="font-size:14px;color:#C0C0C0">一片非常美丽的森林，有小猫出没</center>
+</div>
+<div align="center">    
+	<img src="/images/summerpalace/summerpalace3.jpeg" width="60%" height="60%">
+	<center style="font-size:14px;color:#C0C0C0">苏州街，学生票5块钱</center>
 </div>
 
 <p>2.穿越树林的路上，你会看到一潭小小的荷花池，池边长着一丛芦苇，远处四声杜鹃啼鸣，偶尔有几只绿头鸭、小䴙䴘游过，运气好还会有大雁从头顶飞过。</p>
