@@ -6,7 +6,7 @@
 # This can be an external link (e.g., to you GitHub profile) or to another
 # page within your website.
 projects_url: /projects/
-links_url: false
+links_url: /links/
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
 direction: ltr
@@ -19,7 +19,6 @@ nav:
   about: /about/
   articles: /archives/
   projects: /projects/
-
 
 # Links to your social media accounts.
 # The 'icon' keys should correspond to Fontawesome icon names
